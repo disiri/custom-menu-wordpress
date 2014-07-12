@@ -1,4 +1,5 @@
-custom-menu-wordpress
-=====================
+*** Custom Menu Wordpress ***
 
-add custom menu, taxonomies, settings (backend)
+
+Description: <br>
+Add custom menu, taxonomies, settings (backend)
